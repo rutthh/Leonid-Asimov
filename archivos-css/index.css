@@ -1,0 +1,15 @@
+.caja-transparente {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 2%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: rgba(27, 6, 146, 0.8);
+}
+
+.imagen {
+    width: auto; 
+    height: auto;
+    margin: auto;
+}
+
